@@ -116,6 +116,7 @@
 
 .buttons-container {
     grid-area: button;
+    justify-content: flex-start;
 }
 
 .total-connections {
